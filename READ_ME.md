@@ -67,9 +67,9 @@ Walmart
 
 (Screenshots are stored in the /images folder of the repository.)
 
-![Adidas Sales Dashboard](images/adidas_sales_dashboard.png)
+![Adidas Sales Dashboard](Images/adidas_sales_dashboard.png)
 
-![Adidas Dashboard](images/adidas_sales_dashboard2.png)
+![Adidas Dashboard](Images/adidas_sales_dashboard2.png)
 
 Replace this with a GitHub-hosted link after uploading.
 
@@ -98,3 +98,4 @@ Refresh visuals if needed.
 📬 Contact
 
 For any queries or improvements, feel free to open an issue or submit a pull request.
+
